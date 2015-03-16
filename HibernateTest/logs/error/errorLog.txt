@@ -1,0 +1,4 @@
+2015-03-14 18:55:41 [ErrorLogger]-[ERROR] - com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry 'user2' for key 'Index_2'
+2015-03-14 18:57:28 [ErrorLogger]-[ERROR] - com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry 'user2' for key 'Index_2'
+2015-03-14 18:57:28 [ErrorLogger]-[ERROR] - com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry 'user2' for key 'Index_2'
+2015-03-14 18:58:03 [ErrorLogger]-[ERROR] - com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry 'user2' for key 'Index_2'
